@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1686401940 source:c:\users\tangang\onedrive\desktop\bb\jvaprojectl300\library\libraryapp\main.cpp
+	<windows.h>
+	<mysql.h>
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+
+1686372679 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1686372679 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\mysql_com.h
+
+1686372679 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\mysql_time.h
+
+1686372679 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\mysql_version.h
+	<custom_conf.h>
+
+1686372679 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\typelib.h
+
+1686372676 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\my_list.h
+
+1686372674 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\my_alloc.h
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\mysql_driver.h
+	"cppconn/driver.h"
+	<memory>
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\mysql_connection.h
+	"cppconn/connection.h"
+	<memory>
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\driver.h
+	"connection.h"
+	"build_config.h"
+	"callback.h"
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\connection.h
+	<map>
+	"build_config.h"
+	"warning.h"
+	"sqlstring.h"
+	"variant.h"
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\build_config.h
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\warning.h
+	<stdexcept>
+	<string>
+	<memory>
+	"sqlstring.h"
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\sqlstring.h
+	<string>
+	<algorithm>
+	"build_config.h"
+	<iostream>
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\variant.h
+	<string>
+	<map>
+	<list>
+	<algorithm>
+	<typeinfo>
+	"build_config.h"
+	"sqlstring.h"
+	"exception.h"
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\exception.h
+	"build_config.h"
+	<stdexcept>
+	<string>
+	<memory>
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\callback.h
+	"sqlstring.h"
+	<functional>
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\statement.h
+	"config.h"
+	"resultset.h"
+	<string>
+
+1662120880 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\config.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\resultset.h
+	"config.h"
+	<list>
+	<map>
+	<iostream>
+	"sqlstring.h"
+	"resultset_metadata.h"
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\resultset_metadata.h
+	"sqlstring.h"
+	"datatype.h"
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\datatype.h
+
+1662119340 c:\program files (x86)\embarcadero\dev-cpp\tdm-gcc-64\include\cppconn\prepared_statement.h
+	<iostream>
+	"statement.h"
+
+1686388291 source:c:\users\tangang\onedrive\desktop\bb\jvaprojectl300\library\libraryapp\untitled2.c
+
+1686388299 source:c:\users\tangang\onedrive\desktop\bb\jvaprojectl300\library\libraryapp\user authentication.c
+
